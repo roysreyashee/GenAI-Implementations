@@ -1,0 +1,1 @@
+This file compiles our structured troubleshooting path, capturing the progression from the initial local Mac proxy adjustments, handling the Vite ECONNREFUSED workspace configuration misalignments, identifying the directory path duplicate conflict (server/server), down to the recent LangChain Pydantic validation fix.
